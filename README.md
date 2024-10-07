@@ -80,4 +80,4 @@ $ ./AnimeManagerV2
 1. Clone the Git Repo and `cd` into it
 2. Execute `pip3 -r requirements.txt` in the terminal.
 3. Then use `python3 AnimeManager.py` to start it.
-4. Optional: place `alias anm='python3 /absolute/path/to/AnimeManagerV2.py'` in your `~/.bashrc`.
+4. Optional: setup an [alias](#setting-up-an-alias).
