@@ -1,5 +1,4 @@
 # AnimeManager V2.0
-### by NoiMax
 > Clouds are for Rain.\
 > <sub>\-[Louis Rossmann](https://odysee.com/@rossmanngroup)</sub>
 
