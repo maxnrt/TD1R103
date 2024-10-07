@@ -32,7 +32,7 @@ There are four lists:
 ## Download
 There are 2 ways to download and use AnimeManager V2.0
 ### 1. Using the [compiled version](https://github.com/maxnrt/TD1R103/releases/latest).
-Although AnimeManager V2.0 is written in Python, I've used PyCompiler to compile it for Windows and Linux.
+Although AnimeManager V2.0 is written in Python, I've used PyInstaller to compile it for Windows and Linux.
 That way, you don't even need Python to be installed to use it.
 #### Note: This is NOT the way I recommend anyone to use it.
 There are two versions of the compiled executable.
