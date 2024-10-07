@@ -17,7 +17,7 @@ To use it, either download the [compiled version](#1-using-the-compiled-version)
 - [X] Make the Location part work both for links and for folder locations.
 - [ ] Add a thumbnail of the anime from AniDB.
 
-The GUI has four lists:
+There are four lists:
 |List         |What it represents                                           |
 |:-----------:|:------------------------------------------------------------|
 |Plan-To-Watch|Has every anime you haven't watched yet, but are planning to.|
