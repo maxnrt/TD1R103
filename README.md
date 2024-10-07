@@ -1,7 +1,7 @@
 # AnimeManager V2.0
 ### by Purparmalm
 > Clouds are for Rain.\
-> <sub>\-Louis Rossmann</sub>
+> <sub>\-[Louis Rossmann](https://odysee.com/@rossmanngroup)</sub>
 
 ---
 
