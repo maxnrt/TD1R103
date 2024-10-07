@@ -6,7 +6,7 @@
 ---
 
 
-<img src="AnimeManagerV2G.png" height="480" />
+<img src="AnimeManagerV2GUI.png" height="480" />
 
 
 AnimeManager is like [MyAnimeList](https://myanimelist.net) but locally hosted and cooler. It's written in Python and uses TkInter for the GUI.
