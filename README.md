@@ -70,7 +70,7 @@ $ ./AnimeManagerV2
 3. Type `$ source ~/.bashrc` to update the changes or restart your terminal.
 
 ### 2. Using the python source.
-#### Note: This way of doing it is much better since you can verify the source and make sure no malware is present. (Not that I have any in my compiled version lmao)
+**Note: This way of doing it is much better since you can verify the source and make sure no malware is present.** *<sub>(Not that I have any in my compiled version lmao)</sub>*
 ##### Windows
 1. Download the Git Repo in a ZIP file.
 2. Extract the ZIP file.
