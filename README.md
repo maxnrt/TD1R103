@@ -26,7 +26,8 @@ There are four lists:
 |Watched      |Has every anime you have finished watching.                  |
 
 *Note: These are subjective ideas of what each list represents. You're free to do whatever you want.*
-<img src="AnimeManagerV2GUI.png" width="200" />
+
+<img src="AnimeManagerV2GUI.png" height="720" />
 
 ## Download
 There are 2 ways to download and use AnimeManager V2.0
